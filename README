@@ -1,7 +1,8 @@
 luci-proto-modemmanager
 =======================
 
-This luci-protocol adds support to set up and configure basic options for a modem using ModemManager and LuCI on OpenWrt. Requires ModemManager. Assumes a modem is installed and working.
+This luci-protocol adds support to set up and configure basic options for a modem using ModemManager 
+and LuCI on OpenWrt. Requires ModemManager. Assumes a modem is installed and working.
 
 Features
 ========
