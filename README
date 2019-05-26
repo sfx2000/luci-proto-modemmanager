@@ -3,6 +3,10 @@ Credits:
 * https://bitbucket.org/mips171/luci-proto-modemmanager/wiki/Home
 * https://gitlab.freedesktop.org/mobile-broadband/mobile-broadband-openwrt
 
+NOTE - licensing is not clear with this LUCI module
+       this is not my code 
+       upstream modemmanager is GPLv2
+
 luci-proto-modemmanager
 =======================
 
@@ -25,7 +29,7 @@ Install
 =======
 
 1. download the code
-2. place it under your LuCI protocols directory
+2. place it under your LuCI protocols directory - ~/openwrt/feeds/luci/protocol
 3. run ./scripts/feeds update -a && ./scripts/feeds install luci-proto-modemmanager from your OpenWrt root directory
 4. enable in menuconfig
 
